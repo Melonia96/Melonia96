@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Melonia96
 - 👀 I’m interested in sewing, cats, coffee, chocolate, updating my programming skills
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
