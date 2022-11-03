@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Melonia96
+- 👋 Hi, I’m @Melonia96 aka Mona
 - 👀 I’m interested in sewing, cats, coffee, chocolate, updating my programming skills
 - 🌱 I’m currently learning Java
 - 📫 How to reach me ...
