@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Melonia96 aka Mona
 - 👀 I’m interested in sewing, cats, coffee, chocolate, updating my programming skills
-- 🌱 I’ve played with Spring Boot, Python, and Java.
 - I've programmed in C/C++ and SQL.
+- 🌱 I’ve played with Spring Boot, Python, and Java.
 - 📫 How to reach me ...
 
 <!---
